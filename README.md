@@ -2,7 +2,7 @@
 
 ## About Our School: 
 
-Our goal is to teach Scratch and Web Development for students at Hatikvah. Scratch is avaible for students in **3rd and 4th grade**. Web Development is avaible for **grades 5 and 6**. Anyone who wants to register for the class will ahv to fill out a form.
+Our goal is to teach Scratch and Web Development for students at Hatikvah. Scratch is avaible for students in **3rd and 4th grade**. Web Development is avaible for **grades 5 and 6**. Anyone who wants to register for the class will have to fill out a form.
 
 All lessons are free of costs and are offered once a week during the following days: 
 
