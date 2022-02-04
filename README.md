@@ -36,4 +36,8 @@ These are the slides that we made:
 
 ## Tutorials Website Links: 
 
-  - hatikvahcoding.github.io
+  - https://hatikvahcoding.github.io/coding-school/
+
+## Images of Our Class!
+
+-------
