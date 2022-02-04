@@ -1,29 +1,39 @@
 # coding-school 👨‍💻
 
-About Our School: 
+## About Our School: 
 
-Our goal is to teach Scratch and Web Development for students at Hatikvah. Scratch is avaible for students in 3rd and 4th grade. Web Development is avaible for grades 5 and 6. Anyone who wants to register for the class will ahv to fill out a form.
+Our goal is to teach Scratch and Web Development for students at Hatikvah. Scratch is avaible for students in **3rd and 4th grade**. Web Development is avaible for **grades 5 and 6**. Anyone who wants to register for the class will ahv to fill out a form.
 
-All lessons are free of costs and...
+All lessons are free of costs and are offered once a week during the following days: 
 
-Rules & Policies: 
+  - **Scratch - [day] @ [times]**
+  - **Web Development - Friday @ 5:00 PM - 6:00 PM**
 
-  - w
-  - r
-  - i
-  - t
-  - e
+## Rules & Policies: 
 
-Additional Info: 
+All students who attend the lessons must abide with these rules. Students who do not abide with these rules are warned.
 
+  - No spamming or offensive language.
+  - Chat should only be used for questions and answers.
+  - Websites or projects created must be appropriate.
+  - Act as this were a class.
+  - Have fun coding!
 
+## Additional Info: 
 
-Contacts: 
+These are the slides that we made:
+
+  - https://docs.google.com/presentation/d/1FG3cLd2GXbs2kgip1gQBmblURIAdvD8ZvrDmESPYIjU/edit#slide=id.p
+  - https://docs.google.com/presentation/d/12t7m1hapd7NVZJT6lMZgcIOfPNKe6gvp8LeqAw0x9kI/edit#slide=id.g110f07124b1_1_0
+
+**Check out our website!**
+
+## Contacts: 
 
   - Eric Chen | gr27echen@hiacs.org
   - Jasper Huang | gr27jhuang@hiacs.org
   - Aitan Duncan | gr27aduncan@hiacs.org
 
-Tutorials Website Links: 
+## Tutorials Website Links: 
 
-  - 
+  - hatikvahcoding.github.io
