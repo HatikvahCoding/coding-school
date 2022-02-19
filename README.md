@@ -6,8 +6,8 @@ Our goal is to teach Scratch and Web Development for students at Hatikvah. Scrat
 
 All lessons are free of costs and are offered once a week during the following days: 
 
-  - **Scratch - [day] @ [times]**
-  - **Web Development - Friday @ 5:00 PM - 6:00 PM**
+  - **Scratch - Monday @ 6:00 PM - 6:30 PM**
+  - **Web Development - Wednesday @ 6:00 PM - 7:00 PM**
 
 ## Rules & Policies: 
 
