@@ -33,6 +33,7 @@ These are the slides that we made:
   - Eric Chen | gr27echen@hiacs.org
   - Jasper Huang | gr27jhuang@hiacs.org
   - Aitan Duncan | gr27aduncan@hiacs.org
+  - **Our Main Email: hatikvahcoding@hiacs.org**
 
 ## Tutorials Website Links: 
 
