@@ -24,7 +24,7 @@ All students who attend the lessons must abide with these rules. Students who do
 These are the slides that we made:
 
   - https://docs.google.com/presentation/d/1FG3cLd2GXbs2kgip1gQBmblURIAdvD8ZvrDmESPYIjU/edit#slide=id.p
-  - https://docs.google.com/presentation/d/12t7m1hapd7NVZJT6lMZgcIOfPNKe6gvp8LeqAw0x9kI/edit#slide=id.g110f07124b1_1_0
+  - https://docs.google.com/presentation/d/12t7m1hapd7NVZJT6lMZgcIOfPNKe6gvp8LeqAw0x9kI/edit#slide=id.p
 
 **Check out our website!**
 
